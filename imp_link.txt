@@ -1,0 +1,8 @@
+Kaggle dataset link for train.csv
+
+https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data?select=train.csv
+
+
+To generate key for geocoding
+
+https://developer.mapquest.com/
